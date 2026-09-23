@@ -1,1 +1,4 @@
 source_id,claim,source_title,publisher,url,pub_date,accessed
+SRC-01,"Медичний прискорювач Therac-25 став причиною серії радіаційних аварій та летальних випадків через програмні дефекти","Therac-25","Wikipedia","https://en.wikipedia.org/wiki/Therac-25",2024-02-15,2026-09-22
+SRC-02,"Детальна хронологія аварій Therac-25, аналіз стану гонитви та відсутність апаратних блокувальників","Therac-25 Case Study from Safeware","Rochester Institute of Technology","https://www.se.rit.edu/~swen-342/resources/Leveson%20-%20The%20Therac%2025%20-%20Safeware%20System%20Safety%20and%20Computers.pdf",1995-01-01,2026-09-22
+SRC-03,"Хронологія розробки Therac-25, оцінка безпеки SFTA та тестування ПЗ","Software Engineering and System Safety: Therac-25 Case","Elsevier","https://www.sciencedirect.com/science/article/pii/S1474667017448245",1995-01-01,2026-09-22
