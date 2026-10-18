@@ -1,1 +1,6 @@
 stakeholder_id,name_or_role,organization,interest,influence,attitude,strategy,owner
+ST-01,Керівник практики від факультету,факультет,high,high,supporter,manage_closely,PM
+ST-02,Керівник практики від підприємства,база практики,high,high,blocker,manage_closely,PM
+ST-03,Студент-практикант,факультет,high,low,supporter,keep_informed,PM
+ST-04,Представник бухгалтерії,академія,low,high,neutral,keep_satisfied,PM
+ST-05,Системний адміністратор,академія,low,low,supporter,monitor,PM
