@@ -1,1 +1,4 @@
 debt_id,area,description,type,origin,impact,effort_hours,decision,plan,owner,due_sprint
+D-01,testing,"Відсутність автоматизованих e2e-тестів для сценарію подачі заявки на практику",deliberate_prudent,Sprint 1,medium,8,pay_later,"Написати базові e2e-тести Cypress у Спринті 3 для скорочення часу ручного регресу",dev1,3
+D-02,architecture,"Відсутність індексів у БД для таблиці звітів та щоденників практик",inadvertent_prudent,Sprint 2,medium,6,pay_later,"Додати індекси для полів student_id та report_status у Спринті 3 під час оптимізації БД",dev2,3
+D-03,documentation,"Спрощена деталізація внутрішніх 5xx помилок у специфікації API backend-а",deliberate_prudent,Sprint 1,low,4,accept,"Прийнято без виправлення: кількість адміністраторів невелика і витрата 4 годин розробника не має бізнес-цінності",dev1,
