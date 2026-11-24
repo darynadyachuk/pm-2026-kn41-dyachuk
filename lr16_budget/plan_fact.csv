@@ -1,1 +1,3 @@
 sprint,planned_points,actual_points,planned_cost_per_point,actual_cost_per_point,variance_pct,source_file,note
+1,20,18,6820.00,7577.78,11.11,lr09_forecast/velocity.csv,Затримка налаштування тестового середовища та інтеграції Clerk SSO забрала 2 SP від номінальної ємності спринта
+2,20,12,6820.00,11366.67,66.67,lr09_forecast/velocity.csv,Закрито останні 12 SP першого релізу із витратою часу на регресійне тестування і виправлення зауважень безпеки
