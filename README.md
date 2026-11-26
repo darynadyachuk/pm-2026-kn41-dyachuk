@@ -16,8 +16,8 @@
 | Варіант вхідних умов | V01 |
 | Трекер | https://www.notion.com/ |
 | Дошка | https://mixolydian-penalty-fac.notion.site/Kanban-Board-LR04-3f663927262980a1821beb3382001a1f |
-| Валюта проєкту | для кошторису ЛР16 |
-| Contingency, % | від прямих витрат, ЛР16 |
+| Валюта проєкту | UAH (грн) |
+| Contingency, % | 8 |
 
 ## Про проєкт
 
